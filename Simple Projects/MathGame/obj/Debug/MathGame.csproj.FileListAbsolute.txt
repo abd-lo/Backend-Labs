@@ -1,0 +1,11 @@
+C:\Users\aboud\source\repos\Projects\MathGame\bin\Debug\MathGame.exe.config
+C:\Users\aboud\source\repos\Projects\MathGame\bin\Debug\MathGame.exe
+C:\Users\aboud\source\repos\Projects\MathGame\bin\Debug\MathGame.pdb
+C:\Users\aboud\source\repos\Projects\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+C:\Users\aboud\source\repos\Projects\MathGame\obj\Debug\MathGame.Form1.resources
+C:\Users\aboud\source\repos\Projects\MathGame\obj\Debug\MathGame.frmTest.resources
+C:\Users\aboud\source\repos\Projects\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Users\aboud\source\repos\Projects\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+C:\Users\aboud\source\repos\Projects\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\aboud\source\repos\Projects\MathGame\obj\Debug\MathGame.exe
+C:\Users\aboud\source\repos\Projects\MathGame\obj\Debug\MathGame.pdb
