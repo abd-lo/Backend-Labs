@@ -1,0 +1,10 @@
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\bin\Debug\PizzaProject.exe.config
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\bin\Debug\PizzaProject.exe
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\bin\Debug\PizzaProject.pdb
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\obj\Debug\PizzaProject.Form1.resources
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\obj\Debug\PizzaProject.exe
+C:\Users\aboud\source\repos\Projects\WindowsFormsApp1\PizzaProject\obj\Debug\PizzaProject.pdb
