@@ -1,0 +1,12 @@
+C:\Users\aboud\source\repos\Projects\Pool Club\bin\Debug\Pool Club.exe.config
+C:\Users\aboud\source\repos\Projects\Pool Club\bin\Debug\Pool Club.exe
+C:\Users\aboud\source\repos\Projects\Pool Club\bin\Debug\Pool Club.pdb
+C:\Users\aboud\source\repos\Projects\Pool Club\obj\Debug\Pool Club.csproj.AssemblyReference.cache
+C:\Users\aboud\source\repos\Projects\Pool Club\obj\Debug\Pool_Club.Form1.resources
+C:\Users\aboud\source\repos\Projects\Pool Club\obj\Debug\Pool_Club.Properties.Resources.resources
+C:\Users\aboud\source\repos\Projects\Pool Club\obj\Debug\Pool_Club.ucPoolTabel.resources
+C:\Users\aboud\source\repos\Projects\Pool Club\obj\Debug\Pool Club.csproj.GenerateResource.cache
+C:\Users\aboud\source\repos\Projects\Pool Club\obj\Debug\Pool Club.csproj.CoreCompileInputs.cache
+C:\Users\aboud\source\repos\Projects\Pool Club\obj\Debug\Pool Club.exe
+C:\Users\aboud\source\repos\Projects\Pool Club\obj\Debug\Pool Club.pdb
+C:\Users\aboud\source\repos\Projects\Pool Club\obj\Debug\Pool_Club.frmPlayerName.resources
